@@ -1,0 +1,16 @@
+C:\Users\horau\Documents\projects\Pseudo3DEngine\bin\Debug\net5.0\Pseudo3DEngine.exe
+C:\Users\horau\Documents\projects\Pseudo3DEngine\bin\Debug\net5.0\Pseudo3DEngine.deps.json
+C:\Users\horau\Documents\projects\Pseudo3DEngine\bin\Debug\net5.0\Pseudo3DEngine.runtimeconfig.json
+C:\Users\horau\Documents\projects\Pseudo3DEngine\bin\Debug\net5.0\Pseudo3DEngine.runtimeconfig.dev.json
+C:\Users\horau\Documents\projects\Pseudo3DEngine\bin\Debug\net5.0\Pseudo3DEngine.dll
+C:\Users\horau\Documents\projects\Pseudo3DEngine\bin\Debug\net5.0\ref\Pseudo3DEngine.dll
+C:\Users\horau\Documents\projects\Pseudo3DEngine\bin\Debug\net5.0\Pseudo3DEngine.pdb
+C:\Users\horau\Documents\projects\Pseudo3DEngine\obj\Debug\net5.0\Pseudo3DEngine.csproj.AssemblyReference.cache
+C:\Users\horau\Documents\projects\Pseudo3DEngine\obj\Debug\net5.0\Pseudo3DEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\horau\Documents\projects\Pseudo3DEngine\obj\Debug\net5.0\Pseudo3DEngine.AssemblyInfoInputs.cache
+C:\Users\horau\Documents\projects\Pseudo3DEngine\obj\Debug\net5.0\Pseudo3DEngine.AssemblyInfo.cs
+C:\Users\horau\Documents\projects\Pseudo3DEngine\obj\Debug\net5.0\Pseudo3DEngine.csproj.CoreCompileInputs.cache
+C:\Users\horau\Documents\projects\Pseudo3DEngine\obj\Debug\net5.0\Pseudo3DEngine.dll
+C:\Users\horau\Documents\projects\Pseudo3DEngine\obj\Debug\net5.0\ref\Pseudo3DEngine.dll
+C:\Users\horau\Documents\projects\Pseudo3DEngine\obj\Debug\net5.0\Pseudo3DEngine.pdb
+C:\Users\horau\Documents\projects\Pseudo3DEngine\obj\Debug\net5.0\Pseudo3DEngine.genruntimeconfig.cache
