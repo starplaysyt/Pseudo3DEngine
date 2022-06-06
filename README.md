@@ -11,4 +11,6 @@ Control Keys: WASD.
 
 If you have strange artifacts on your screen try to expand window and restore it back.
 
+Doesn't work from cmd. You need to compile it first and open from .exe file.
+
 **I used presets from YouTube to make this)) 
